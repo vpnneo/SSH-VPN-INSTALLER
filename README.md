@@ -10,9 +10,9 @@ install :
 wget https://raw.githubusercontent.com/vpnneo/SSH-VPN-INSTALLER/main/1click.sh && chmod +x 1click.sh && ./1click.sh
 =
 
-Price : $3 per 1 ip lifetime // $10 per 5 ip lifetime
+Price : $2 per 1 ip lifetime // $50 per 3 ip lifetime
 =
-Harga : 30Rb per 1 ip lifetime // 100Rb per 5 ip lifetime
+Harga : 20Rb per 1 ip lifetime // 50Rb per 3 ip lifetime
 =
 
 
