@@ -5,20 +5,20 @@ Bismillah
 OneClickDone INSTALLER SSH VPN V2RAY TROJAN SS SSR WG
 
 FOR DEBIAN 9+ & UBUNTU 18+
-
+ <br> <br>
 ## ⏩ Pricing ⏪
 <b>
 ✔ $2 per 1 ip lifetime <br>
 ✔ $50 per 3 ip lifetime <br> <br>
 ✔ 20Rb per 1 ip lifetime <br>
-✔ 50Rb per 3 ip lifetime <br>
+✔ 50Rb per 3 ip lifetime <br> <br>
   
 ## 🔰 Unlimited Install 🔰
 
 😍 $25 for install as you wish <br> <br>
 😍 250Rb untuk install semaumu <br>
 </b>
-
+ <br>
 ## ORDER
 <B>
 Telegram : https://t.me/vpnneo <br>
